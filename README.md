@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KEZO881
+- 👋 Hi, I’m @Risann
 - 👀 I’m interested in meta-verse
 - 🌱 I’m currently learning python,css&java
 - 💞️ I’m looking to collaborate on someone good at html.
